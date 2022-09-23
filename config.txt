@@ -1,0 +1,24 @@
+{
+"app_id": "wx8fa3a9c1f927145f",
+"app_secret": "4bc52e6bf4ccf153cf0a5b04a6cc7416",
+"template_id":"vYPffHqw9oiZgWFH0eFasHNtRkTvLzXPpdNd1xgvSKQ",
+"user": [
+        "opjfm6EXx9OECK74Sdi3ilQcwUIU",
+        "opjfm6Msw2yDKMoEnBzG0fOo0Jco"
+    ],
+"province": "天津",
+"city": "天津",
+"birthday1": "r2001-05-25",
+"birthday2": "r2000-11-07",
+"birthday3": "2022-09-24",
+"last_date": "2022-08-14",
+"love_date": "2022-04-28",
+"Whether_Eng":"否",
+"caihongpi_API":"替换掉我",
+"lizhi_API":"替换掉我",
+"tianqi_API":"02e0fcd3755d1da5f86be6b62bb76c03",
+"health_API":"替换掉我",
+"lucky_API":"02e0fcd3755d1da5f86be6b62bb76c03",
+"astro":"巨蟹座"
+}
+
