@@ -3,8 +3,7 @@
 "app_secret": "4bc52e6bf4ccf153cf0a5b04a6cc7416",
 "template_id":"vYPffHqw9oiZgWFH0eFasHNtRkTvLzXPpdNd1xgvSKQ",
 "user": [
-        "opjfm6EXx9OECK74Sdi3ilQcwUIU",
-        "opjfm6Msw2yDKMoEnBzG0fOo0Jco"
+        "opjfm6EXx9OECK74Sdi3ilQcwUIU"
     ],
 "province": "天津",
 "city": "天津",
