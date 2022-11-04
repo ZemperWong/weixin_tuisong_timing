@@ -1,7 +1,7 @@
 {
 "app_id": "wx8fa3a9c1f927145f",
 "app_secret": "4bc52e6bf4ccf153cf0a5b04a6cc7416",
-"template_id":"vYPffHqw9oiZgWFH0eFasHNtRkTvLzXPpdNd1xgvSKQ",
+"template_id":"9Jk_4JsWWaVrD0cNJszAeuu2Jo41yC6ISvDEoWkcyP0",
 "user": [
         "opjfm6EXx9OECK74Sdi3ilQcwUIU",
         "opjfm6Msw2yDKMoEnBzG0fOo0Jco"
